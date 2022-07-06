@@ -1,11 +1,10 @@
 # Ncu-math-notes
 
->[**基于@OrangeX4的编排系统整理的数学笔记**](https://github.com/OrangeX4/NJUAI-Notes)
+>[**基于VSCode配置LaTeX编排系统整理的个人数学笔记**](https://zhuanlan.zhihu.com/p/166523064)
 
 - 数学分析
 - 高等代数
 - 常微分方程
 - 概率论
-- 组合
 - ...
 
